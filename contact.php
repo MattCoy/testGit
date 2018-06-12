@@ -4,7 +4,8 @@
     <title></title>
 </head>
 <body>
-    <h1>page d'accueil V2</h1>
-    Coucou les amis
+    <h1>page contact V1</h1>
+    Ecrivez moi
+    <form></form>
 </body>
 </html>
