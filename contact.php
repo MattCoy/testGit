@@ -5,7 +5,8 @@
 </head>
 <body>
     <h1>page contact V1</h1>
-    Ecrivez moi
-    <form></form>
+    <form method="post">
+    	<input type="text" name="message">
+    </form>
 </body>
 </html>
